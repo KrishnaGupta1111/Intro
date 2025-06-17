@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning Nextjs and trying my hands on Devops tools and concepts.
 
 - 📫 How to reach me **guptakrish1947@gmail.com**
 
