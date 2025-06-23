@@ -14,6 +14,7 @@
 - 📫 How to reach me **guptakrish1947@gmail.com**
 
 - ⚡ Fun fact **I like Music**
+-  I am currently working on Movie Ticekts Booking Platform and AI powered Blog Platform
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
